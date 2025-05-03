@@ -1,4 +1,4 @@
-public class overload
+public class over
 {
     void demo (int a)
     {
@@ -20,7 +20,7 @@ class Methodoverloading
 {
     public static void main(String args[])
     {
-        overload obj = new overload();
+        over obj = new over();
         double result;
         obj.demo(10);
         obj.demo(10, 20);
