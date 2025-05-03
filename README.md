@@ -1,8 +1,3 @@
-# Java Practice Repository
-
-Welcome to my Java repository! 👨‍💻
-
-This repository contains Java code snippets, small projects, and exercises that I’ve worked on to improve my understanding of the Java programming language. It's a collection of my practice codes ranging from basic to intermediate levels.
 
 ## 🧠 About
 
