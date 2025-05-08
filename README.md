@@ -51,8 +51,6 @@ Mini projects
 This is a personal practice repository, but if you'd like to share feedback or suggestions, feel free to open an issue or pull request.
 
 📬 Contact
-📧 Email: surajthapa.work@gmail.com (example — replace with your actual if you'd like)
-
 🌐 GitHub: Itssuraj-1
 
 ⚠️ Note: This code is for educational purposes and may not follow strict production-level standards.
